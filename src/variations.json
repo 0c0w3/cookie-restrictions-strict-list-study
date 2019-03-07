@@ -12,7 +12,9 @@
       ],
       "resetDefaults": [
         "browser.search.param.google_channel_us",
-        "browser.search.param.google_channel_row"
+        "browser.search.param.google_channel_row",
+        "network.cookie.cookiebehavior",
+        "urlclassifier.trackingAnnotationTable"
       ],
       "resetValues": {
       }
