@@ -5,6 +5,8 @@
       "setValues": {
         "browser.search.param.google_channel_us": "cus",
         "browser.search.param.google_channel_row": "crow"
+        "network.cookie.cookiebehavior": 4,
+        "urlclassifier.trackingAnnotationTable": "test-track-simple,base-track-digest256"
       },
       "expectNonDefaults": [
       ],
