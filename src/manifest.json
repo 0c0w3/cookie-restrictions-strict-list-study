@@ -1,16 +1,16 @@
 {
   "manifest_version": 2,
-  "name": "Cookie Restrictions Strict List Study",
-  "version": "1.1",
-  "description": "A study that blocks tracking cookies from the strict list and the basic list, in two separate cohorts.",
+  "name": "Enhanced Tracking Protection Study",
+  "version": "1.0",
+  "description": "A study that examines the impact of enhanced tracking protection on search volume, in two separate cohorts.",
   "hidden": true,
   "background": {
     "scripts": ["background.js"]
   },
   "applications": {
     "gecko": {
-      "id": "cookie-restrictions-strict-list-study@shield.mozilla.org",
-      "strict_min_version": "65.0"
+      "id": "enhanced-tracking-protection-study@shield.mozilla.org",
+      "strict_min_version": "66.0"
     }
   },
 
