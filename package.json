@@ -1,10 +1,10 @@
 {
-  "name": "cookie-restrictions-strict-list-study",
-  "description": "A study that blocks tracking cookies from the strict list and the basic list, in two separate cohorts.",
-  "version": "1.1.0",
+  "name": "enhanced-tracking-protection-study",
+  "description": "A study that examines the impact of enhanced tracking protection on search volume, in two separate cohorts.",
+  "version": "1.0.0",
   "author": "Mozilla",
   "bugs": {
-    "url": ""
+    "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1532678"
   },
   "dependencies": {
     "shield-studies-addon-utils": "github:mozilla/shield-studies-addon-utils#5.2.0"
@@ -35,7 +35,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/mozilla/cookie-restrictions-strict-list-study"
+    "url": "https://github.com/mozilla/enhanced-tracking-protection-study"
   },
   "scripts": {
     "build": "web-ext build",
