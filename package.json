@@ -7,7 +7,7 @@
     "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1532678"
   },
   "dependencies": {
-    "shield-studies-addon-utils": "github:mozilla/shield-studies-addon-utils#5.2.0"
+    "shield-studies-addon-utils": "github:mozilla/shield-studies-addon-utils#5.2.1"
   },
   "devDependencies": {
     "chai": "^4.1.2",
