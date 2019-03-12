@@ -5,7 +5,6 @@
       "setValues": {
         "browser.search.param.google_channel_us": "cus",
         "browser.search.param.google_channel_row": "crow",
-        "network.cookie.cookieBehavior": 4,
         "urlclassifier.trackingAnnotationTable": "test-track-simple,base-track-digest256",
         "browser.contentblocking.category": "custom"
       },
@@ -15,7 +14,6 @@
       "resetDefaults": [
         "browser.search.param.google_channel_us",
         "browser.search.param.google_channel_row",
-        "network.cookie.cookieBehavior",
         "urlclassifier.trackingAnnotationTable",
         "browser.contentblocking.category"
       ],
